@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2026-02-10 08:00:01 GMT+7
+SOCKS5 Proxy list updated at 2026-02-10 09:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,7 +12,6 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇷🇺 87.117.11.57:1080 387ms RU [Macroregional South]
 🇧🇷 187.63.9.62:63253 552ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
-🇺🇦 185.151.86.86:3699 224ms UA [Omega Telecom]
 🇺🇦 185.151.86.121:3699 671ms UA [Omega Telecom]
 🇿🇦 102.36.127.53:1080 775ms ZA [Clear Access (Pty) Ltd]
 🇸🇬 138.199.25.13:3909 67ms SG [DataCamp Limited]
