@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2026-02-28 23:00:02 GMT+7
+SOCKS5 Proxy list updated at 2026-03-01 00:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -19,5 +19,6 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇻🇳 113.176.118.150:1080 198ms VN [VNPT]
 🇺🇦 176.37.21.46:5678 261ms UA [Lanet Network]
 🇹🇷 185.87.121.35:8975 697ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.87.121.5:8975 547ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 646ms TR [Ideal Hosting Teknoloji]
 🇻🇳 113.160.188.21:1080 441ms VN [VietNam Post and Telecom Corporation]
